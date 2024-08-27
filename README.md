@@ -98,3 +98,20 @@
       DMI Chassis Serial Number                         [ TRIAL VERSION ]
       DMI Chassis Asset Tag                             [ TRIAL VERSION ]
       DMI Chassis Type                                  Notebook
+
+        
+  Graphics Processor Properties:  
+   Video Adapter   Intel Ice Lake-U GT2 32EU - Integrated Graphics Controller  
+   GPU Code Name   Ice Lake-U GT2 32EU  
+   PCI Device   8086-8A56 / 17AA-3FD9 (Rev 07)  
+   Process Technology   10 nm  
+   Bus Type   Integrated  
+   GPU Clock   300 MHz (original: 300 MHz)  
+   GPU Clock (Turbo)   300 - 900 MHz  
+   RAMDAC Clock   350 MHz  
+   Pixel Pipelines   8  
+   TMU Per Pipeline   1  
+   Unified Shaders   128 (v6.5)  
+   DirectX Hardware Support   DirectX v12  
+   WDDM Version   WDDM 2.7  
+
