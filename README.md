@@ -113,5 +113,10 @@
    TMU Per Pipeline   1  
    Unified Shaders   128 (v6.5)  
    DirectX Hardware Support   DirectX v12  
-   WDDM Version   WDDM 2.7  
+   WDDM Version   WDDM 2.7 
+
+Codec:
+   Realtek ALC257
+      ├── Device ID: 0x0257
+      └── Vendor: 0x10EC
 
